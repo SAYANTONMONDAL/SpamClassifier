@@ -33,7 +33,7 @@ def preprocess(text):
 
 # ── HEADER ──────────────────────────────────────────────
 st.title("📧 Email Spam Classifier")
-st.markdown("*Comparing 8 Machine Learning Algorithms — Final Year Project*")
+st.markdown("*Comparing 8 Machine Learning Algorithms — ML Project*")
 st.divider()
 
 # ── TABS ────────────────────────────────────────────────
